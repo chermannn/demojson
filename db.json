@@ -1,0 +1,17 @@
+{
+  "configs": [
+    { "id": "c6f057b86584942e415435ffb1fa93d4", "host": "192.168.42.176", "port": 8000, "proxy": "", "proxy_port": 0, "country": "CA" },
+    { "id": "698d51a19d8a121ce581499d7b701668", "host": "192.168.42.176", "port": 8000, "proxy": "", "proxy_port": 0, "country": "GB" },
+    { "id": "bcbe3365e6ac95ea2c0343a2395834dd", "host": "192.168.42.176", "port": 8000, "proxy": "", "proxy_port": 0, "country": "FR" },
+    { "id": "310dcbbf4cce62f762a2aaa148d556bd", "host": "192.168.42.176", "port": 8000, "proxy": "", "proxy_port": 0, "country": "DE" },
+    { "id": "550a141f12de6341fba65b0ad0433500", "host": "192.168.42.176", "port": 8000, "proxy": "", "proxy_port": 0, "country": "JP" },
+    { "id": "15de21c670ae7c3f6f3f1f37029303c9", "host": "192.168.42.176", "port": 8000, "proxy": "", "proxy_port": 0, "country": "SE" },
+    { "id": "fae0b27c451c728867a567e8c1bb4e53", "host": "192.168.42.176", "port": 8000, "proxy": "", "proxy_port": 0, "country": "US" },
+    { "id": "f1c1592588411002af340cbaedd6fc33", "host": "192.168.42.176", "port": 8000, "proxy": "", "proxy_port": 0, "country": "AU" },
+    { "id": "0a113ef6b61820daa5611c870ed8d5ee", "host": "192.168.42.176", "port": 8000, "proxy": "", "proxy_port": 0, "country": "CH" },
+    { "id": "b706835de79a2b4e80506f582af3676a", "host": "192.168.42.176", "port": 8000, "proxy": "", "proxy_port": 0, "country": "IN" }
+  ],
+  "profile": {
+    "email": "default@mail.com", "status": "default"
+  }
+}
