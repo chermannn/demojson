@@ -1,0 +1,8 @@
+{
+  "configs": [
+   { "id": "b706835de79a2b4e80506f582af3676a", "host": "192.168.42.176", "port": 8000, "proxy": "", "proxy_port": 0, "country": "IN" }
+  ]
+  "profile": {
+    "email": "default@mail.com", "status": "default"
+  }
+}
