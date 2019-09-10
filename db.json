@@ -1,6 +1,7 @@
 {"configs": [{
 "id": "b54d5c08-0194-4e0a-95a7-ce1c026cfd7f",
 "country": "CA",
+ "city":"YOW",
 "layer": "tun",
 "proto": "tcp",
 "host": "vpn357534506.opengw.net",
